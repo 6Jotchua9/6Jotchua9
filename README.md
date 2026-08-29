@@ -1,7 +1,104 @@
-# 💫 About Me:
-# 👋 Hi, I'm Umair Aamir<br><br>### Cybersecurity Student • Security Auditor • CTF Player • Security Researcher<br><br>I'm a **Cybersecurity undergraduate at Air University** with a strong interest in **offensive security, vulnerability research, reverse engineering, and security engineering**.<br><br>I enjoy breaking things, understanding why they break, and then building systems that are harder to break.<br><br>---<br><br>## 🛡️ What I Do<br><br>* 🔴 **Offensive Security** — Penetration Testing, Web Security, OSINT & Vulnerability Assessment<br>* 🧩 **CTFs** — Pwn, Reverse Engineering, Web & OSINT<br>* 🔬 **Security Research** — Exploit Development, Binary Analysis & Security Tooling<br>* 🔵 **Defensive Security** — SOC, Network Monitoring & Incident Analysis<br>* ⛓️ **Blockchain Security** — Consensus, Cryptography & Distributed Systems<br>* 🤖 **AI/ML Security** — Security-focused ML and intelligent detection systems<br>* 💻 **Security Engineering** — Building and auditing real-world applications<br><br>---<br><br>## 🏆 CTFs & Competitions<br><br>* 🥇 **3rd Place — AirTech CTF 2025**<br>* 🌎 **42nd Globally — niteCTF**<br>* Regular participant in:<br><br>  * niteCTF<br>  * Midnight CTF<br>  * Dice CTF<br>  * BYU CTF<br>  * 0xFun CTF<br>  * AirTech CTF<br>  * CyberFest / BCT CTF<br><br>### Areas I enjoy<br><br>`Pwn` • `Reverse Engineering` • `Web` • `OSINT`<br><br>I've worked on challenges involving **custom VM architectures, PRNG-based exploit conditions, ROP chains, binary exploitation, and Python pickle deserialization**.<br><br>---<br><br>## 🚀 Featured Projects<br><br>### ⛓️ FedPark-Chain<br><br>**Blockchain-based Smart Parking Marketplace**<br><br>My final-year project combining **blockchain, AI/ML, distributed systems, and cybersecurity**.<br><br>* Hand-built **Proof-of-Authority consortium blockchain**<br>* ECDSA / SECP256K1 digital signatures<br>* SHA-256 hashing and chain validation<br>* Validator consensus and fault tolerance<br>* Gradient Boosting recommendation engine<br>* Flask + PostgreSQL backend<br>* React frontend<br>* Docker-based multi-node infrastructure<br>* City-aware marketplace supporting **Islamabad, Lahore & Karachi**<br>* Performance benchmarking and statistical evaluation<br><br>---<br><br>### 🔐 Risk-Aware Data Protection Gateway<br><br>A security platform designed to identify sensitive information and secrets across enterprise environments.<br><br>* Windows IIS + Active Directory<br>* Flask + React<br>* **Microsoft Presidio** for PII detection<br>* **Gitleaks** for secret detection<br>* spaCy NER<br>* CLIP-based image classification<br>* Custom ML-based risk assessment<br><br>---<br><br>### 🕵️ OSINT Intelligence Hub<br><br>A cybersecurity intelligence platform with a dark terminal-style interface.<br><br>* Flask backend<br>* OSINT workflows<br>* Phone/CNIC intelligence modules<br>* Intelligence-oriented dashboard<br>* Security-focused data processing<br><br>---<br><br>### 🔒 SecureLocal<br><br>A cybersecurity services startup concept focused on providing security services to local businesses.<br><br>* Security-services platform<br>* Full web presence<br>* Business proposal<br>* Security-focused service architecture<br><br>---<br><br>## 💼 Experience<br><br>### 🔍 Independent Security Auditor<br><br>**2026 – Present**<br><br>Conducting security audits of software systems, including **multi-phase migrations and multi-tenant SaaS applications**.<br><br>Focus areas include:<br><br>* Application security<br>* Vulnerability assessment<br>* Security configuration review<br>* Authentication & authorization<br>* Data protection<br>* Security testing<br><br>### 🏢 IT Security Intern — NEPRA<br><br>Hands-on exposure to organizational cybersecurity, including:<br><br>* Security monitoring<br>* Vulnerability assessment<br>* Network analysis<br>* Incident investigation<br>* Security documentation<br>* Access-control and security processes<br><br>---<br><br>## 📚 Currently Learning<br><br>* Advanced Penetration Testing<br>* Binary Exploitation<br>* Reverse Engineering<br>* Web Application Security<br>* Vulnerability Research<br>* Cloud Security<br>* Malware Analysis<br>* Security Engineering<br><br>---<br><br>## 🎯 What I'm Looking For<br><br>I'm interested in opportunities involving:<br><br>**Penetration Testing • Cybersecurity Engineering • Vulnerability Research • Application Security • Security Research • SOC / Blue Team**<br><br>I'm particularly interested in roles where I can **work on real systems, investigate vulnerabilities, and continuously improve my offensive and defensive security skills.**<br><br>---<br>
+Cybersecurity Student • Security Auditor • CTF Player • Security Researcher
 
+I'm a Cybersecurity undergraduate at Air University with a strong interest in offensive security, vulnerability research, reverse engineering, and security engineering.
 
+I enjoy breaking things, understanding why they break, and then building systems that are harder to break.
+
+🛡️ What I Do
+🔴 Offensive Security — Penetration Testing, Web Security, OSINT & Vulnerability Assessment
+🧩 CTFs — Pwn, Reverse Engineering, Web & OSINT
+🔬 Security Research — Exploit Development, Binary Analysis & Security Tooling
+🔵 Defensive Security — SOC, Network Monitoring & Incident Analysis
+⛓️ Blockchain Security — Consensus, Cryptography & Distributed Systems
+🤖 AI/ML Security — Security-focused ML and intelligent detection systems
+💻 Security Engineering — Building and auditing real-world applications
+🏆 CTFs & Competitions
+🥇 3rd Place — AirTech CTF 2025
+🌎 42nd Globally — niteCTF
+
+Regularly competing in:
+niteCTF • Midnight CTF • Dice CTF • BYU CTF • 0xFun CTF • AirTech CTF • CyberFest / BCT CTF
+
+Focus: Pwn • Reverse Engineering • Web • OSINT
+
+Worked on challenges involving custom VM architectures, PRNG-based exploit conditions, ROP chains, binary exploitation, and Python pickle deserialization.
+
+🚀 Featured Projects
+⛓️ FedPark-Chain
+
+Blockchain-based Smart Parking Marketplace
+
+My final-year project combining blockchain, AI/ML, distributed systems, and cybersecurity.
+
+Hand-built Proof-of-Authority consortium blockchain
+ECDSA / SECP256K1 digital signatures
+SHA-256 hashing and chain validation
+Validator consensus and fault tolerance
+Gradient Boosting recommendation engine
+Flask + PostgreSQL backend
+React frontend
+Docker-based multi-node infrastructure
+Islamabad, Lahore & Karachi support
+Performance benchmarking and statistical evaluation
+🔐 Risk-Aware Data Protection Gateway
+
+Security platform for detecting sensitive information and secrets across enterprise environments.
+
+Windows IIS + Active Directory
+Flask + React
+Microsoft Presidio for PII detection
+Gitleaks for secret detection
+spaCy NER
+CLIP-based image classification
+Custom ML-based risk assessment
+🕵️ OSINT Intelligence Hub
+
+Cybersecurity intelligence platform with a dark terminal-style interface.
+
+Flask backend
+OSINT workflows
+Phone/CNIC intelligence modules
+Intelligence-oriented dashboard
+Security-focused data processing
+🔒 SecureLocal
+
+Cybersecurity services startup concept focused on providing security services to local businesses.
+
+Security-services platform
+Full web presence
+Business proposal
+Security-focused service architecture
+💼 Experience
+🔍 Independent Security Auditor
+
+2026 – Present
+
+Conducting security audits of software systems, including multi-phase migrations and multi-tenant SaaS applications.
+
+Focus areas:
+Application Security • Vulnerability Assessment • Security Configuration • Authentication & Authorization • Data Protection • Security Testing
+
+🏢 IT Security Intern — NEPRA
+
+Hands-on exposure to organizational cybersecurity, including:
+
+Security monitoring
+Vulnerability assessment
+Network analysis
+Incident investigation
+Security documentation
+Access-control and security processes
+📚 Currently Learning
+
+Advanced Penetration Testing • Binary Exploitation • Reverse Engineering • Web Application Security • Vulnerability Research • Cloud Security • Malware Analysis • Security Engineering
+
+🎯 What I'm Looking For
+
+Interested in opportunities involving:
+
+Penetration Testing • Cybersecurity Engineering • Vulnerability Research • Application Security • Security Research • SOC / Blue Team
+
+I'm particularly interested in roles where I can work on real systems, investigate vulnerabilities, and continuously improve my offensive and defensive security skills.
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:6umairaamir9@gmail.com) 
 
